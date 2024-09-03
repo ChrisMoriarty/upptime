@@ -10,7 +10,7 @@
 # This allows us to get closer to 1 minute checks.
 
 
-name: Uptime CI every 6 mins
+name: Uptime CI every 9 mins
 on:
   schedule:
     - cron: "*/9 * * * *"
