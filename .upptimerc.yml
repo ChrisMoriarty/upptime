@@ -9,6 +9,7 @@ sites:
     url: https://jellyseerr.underthere.xyz
   - name: Bitwarden
     url: https://bitwarden.underthere.xyz
+    icon: https://bitwarden.underthere.xyz/favicon.ico
   - name: Immich
     url: https://immich.underthere.xyz
 
