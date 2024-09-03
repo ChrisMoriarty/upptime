@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.underthere.xyz.ico",
     "slug": "jellyfin",
     "status": "up",
-    "uptime": "98.22%",
-    "uptimeDay": "98.22%",
-    "uptimeWeek": "98.22%",
-    "uptimeMonth": "98.22%",
-    "uptimeYear": "98.22%",
+    "uptime": "98.25%",
+    "uptimeDay": "98.25%",
+    "uptimeWeek": "98.25%",
+    "uptimeMonth": "98.25%",
+    "uptimeYear": "98.25%",
     "time": 199,
     "timeDay": 199,
     "timeWeek": 199,
@@ -24,19 +24,19 @@
     "url": "https://jellyseerr.underthere.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/jellyseerr.underthere.xyz.ico",
     "slug": "jellyseerr",
-    "status": "down",
-    "uptime": "98.22%",
-    "uptimeDay": "98.22%",
-    "uptimeWeek": "98.22%",
-    "uptimeMonth": "98.22%",
-    "uptimeYear": "98.22%",
-    "time": 414,
-    "timeDay": 414,
-    "timeWeek": 414,
-    "timeMonth": 414,
-    "timeYear": 414,
+    "status": "up",
+    "uptime": "96.66%",
+    "uptimeDay": "96.66%",
+    "uptimeWeek": "96.66%",
+    "uptimeMonth": "96.66%",
+    "uptimeYear": "96.66%",
+    "time": 403,
+    "timeDay": 403,
+    "timeWeek": 403,
+    "timeMonth": 403,
+    "timeYear": 403,
     "dailyMinutesDown": {
-      "2024-09-03": 17
+      "2024-09-03": 32
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://bitwarden.underthere.xyz/favicon.ico",
     "slug": "bitwarden",
     "status": "down",
-    "uptime": "98.22%",
-    "uptimeDay": "98.22%",
-    "uptimeWeek": "98.22%",
-    "uptimeMonth": "98.22%",
-    "uptimeYear": "98.22%",
+    "uptime": "96.65%",
+    "uptimeDay": "96.65%",
+    "uptimeWeek": "96.65%",
+    "uptimeMonth": "96.65%",
+    "uptimeYear": "96.65%",
     "time": 148,
     "timeDay": 148,
     "timeWeek": 148,
     "timeMonth": 148,
     "timeYear": 148,
     "dailyMinutesDown": {
-      "2024-09-03": 16
+      "2024-09-03": 32
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/immich.underthere.xyz.ico",
     "slug": "immich",
     "status": "down",
-    "uptime": "98.23%",
-    "uptimeDay": "98.23%",
-    "uptimeWeek": "98.23%",
-    "uptimeMonth": "98.23%",
-    "uptimeYear": "98.23%",
+    "uptime": "96.66%",
+    "uptimeDay": "96.66%",
+    "uptimeWeek": "96.66%",
+    "uptimeMonth": "96.66%",
+    "uptimeYear": "96.66%",
     "time": 143,
     "timeDay": 143,
     "timeWeek": 143,
     "timeMonth": 143,
     "timeYear": 143,
     "dailyMinutesDown": {
-      "2024-09-03": 16
+      "2024-09-03": 32
     }
   },
   {
@@ -85,18 +85,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mealie.underthere.xyz.ico",
     "slug": "mealie",
     "status": "down",
-    "uptime": "89.07%",
-    "uptimeDay": "89.07%",
-    "uptimeWeek": "89.07%",
-    "uptimeMonth": "89.07%",
-    "uptimeYear": "89.07%",
+    "uptime": "83.04%",
+    "uptimeDay": "83.04%",
+    "uptimeWeek": "83.04%",
+    "uptimeMonth": "83.04%",
+    "uptimeYear": "83.04%",
     "time": 143,
     "timeDay": 143,
     "timeWeek": 143,
     "timeMonth": 143,
     "timeYear": 143,
     "dailyMinutesDown": {
-      "2024-09-03": 22
+      "2024-09-03": 37
     }
   }
 ]
