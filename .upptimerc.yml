@@ -19,10 +19,10 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.underthere.xyz
   # baseUrl: /your-repo-name
-  logoUrl: https://en.wikipedia.org/wiki/Strong_Bad#/media/File:Strong_Bad.png
-  name: Status
-  introTitle: "Status Monitor"
-  introMessage: "Check here for status of services underthere ;)"
+  logoUrl: https://art.pixilart.com/d4da25035ed0d2b.png
+  name: Upptime
+  introTitle: "Hi."
+  introMessage: "Realtime status monitoring for services underthere ;)"
   navbar:
     - title: Status
       href: /
