@@ -1,0 +1,40 @@
+#
+# =====================================================
+# Same as uptime.yml but with a different cron schedule
+# =====================================================
+#
+# 🔼 Upptime @master
+# Github Actions cannot run any more frequent that once every 5 minutes, although
+# we'd like to check our endpoints more frequently.
+# I added 5 additional uptime.yml files, each offset by one minute on the cron job.
+# This allows us to get closer to 1 minute checks.
+
+
+name: Uptime CI every 6 mins
+on:
+  schedule:
+    - cron: "*/7 * * * *"
+  repository_dispatch:
+    types: [uptime]
+  workflow_dispatch:
+
+concurrency:
+      group: uptime
+
+jobs:
+  release:
+    name: Check status
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
+          token: ${{ secrets.GH_PAT || github.token }}
+      - name: Check endpoint status
+        uses: upptime/uptime-monitor@master
+        with:
+          command: "update"
+        env:
+          GH_PAT: ${{ secrets.GH_PAT || github.token }}
+          SECRETS_CONTEXT: ${{ toJson(secrets) }}
