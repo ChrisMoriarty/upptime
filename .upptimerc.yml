@@ -12,12 +12,16 @@ sites:
     icon: https://bitwarden.underthere.xyz/favicon.ico
   - name: Immich
     url: https://immich.underthere.xyz
+  - name: Mealie
+    url: https://mealie.underthere.xyz
 
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.underthere.xyz
+  assignees: # Users to assign downtime issues (optional)
+  - ChrisMoriarty
   # baseUrl: /your-repo-name
   logoUrl: https://art.pixilart.com/d4da25035ed0d2b.png
   name: Upptime
