@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 379,
-    "timeDay": 361,
-    "timeWeek": 220,
-    "timeMonth": 379,
-    "timeYear": 379,
+    "time": 371,
+    "timeDay": 126,
+    "timeWeek": 211,
+    "timeMonth": 371,
+    "timeYear": 371,
     "dailyMinutesDown": {
       "2024-09-03": 17
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.87%",
-    "time": 741,
-    "timeDay": 853,
-    "timeWeek": 1298,
-    "timeMonth": 741,
-    "timeYear": 741,
+    "time": 726,
+    "timeDay": 291,
+    "timeWeek": 1286,
+    "timeMonth": 726,
+    "timeYear": 726,
     "dailyMinutesDown": {
       "2024-09-03": 32
     }
@@ -45,16 +45,16 @@
     "icon": "https://bitwarden.underthere.xyz/favicon.ico",
     "slug": "bitwarden",
     "status": "up",
-    "uptime": "99.64%",
+    "uptime": "99.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.64%",
-    "time": 1421,
-    "timeDay": 289,
-    "timeWeek": 2312,
-    "timeMonth": 1421,
-    "timeYear": 1421,
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.65%",
+    "time": 1378,
+    "timeDay": 90,
+    "timeWeek": 2305,
+    "timeMonth": 1378,
+    "timeYear": 1378,
     "dailyMinutesDown": {
       "2024-09-03": 86
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.81%",
-    "time": 179,
-    "timeDay": 275,
-    "timeWeek": 164,
-    "timeMonth": 179,
-    "timeYear": 179,
+    "time": 176,
+    "timeDay": 81,
+    "timeWeek": 158,
+    "timeMonth": 176,
+    "timeYear": 176,
     "dailyMinutesDown": {
       "2024-09-03": 47
     }
@@ -85,18 +85,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/mealie.underthere.xyz.ico",
     "slug": "mealie",
     "status": "up",
-    "uptime": "99.54%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.54%",
-    "time": 973,
-    "timeDay": 6358,
-    "timeWeek": 2224,
-    "timeMonth": 973,
-    "timeYear": 973,
+    "uptime": "99.58%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.58%",
+    "time": 943,
+    "timeDay": 6301,
+    "timeWeek": 2220,
+    "timeMonth": 943,
+    "timeYear": 943,
     "dailyMinutesDown": {
-      "2024-09-19": 8,
       "2024-09-03": 99
     }
   }
