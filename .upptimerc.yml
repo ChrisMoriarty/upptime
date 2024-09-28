@@ -14,6 +14,10 @@ sites:
     url: https://immich.underthere.xyz
   - name: Mealie
     url: https://mealie.underthere.xyz
+  - name: Tandoor
+    url: https://tandoor.underthere.xyz
+  - name: Vaultwarden
+    url: https://vaultwarden.underthere.xyz
 
 
 status-website:
