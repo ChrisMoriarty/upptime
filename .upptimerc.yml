@@ -5,19 +5,26 @@ repo: upptime # The name of this repository
 sites:
   - name: Jellyfin
     url: https://jellyfin.underthere.xyz
+    maxResponseTime: 5000
   - name: Jellyseerr
     url: https://jellyseerr.underthere.xyz
+    maxResponseTime: 5000
   - name: Bitwarden
     url: https://bitwarden.underthere.xyz
     icon: https://bitwarden.underthere.xyz/favicon.ico
+    maxResponseTime: 5000
   - name: Immich
     url: https://immich.underthere.xyz
+    maxResponseTime: 5000
   - name: Mealie
     url: https://mealie.underthere.xyz
+    maxResponseTime: 5000
   - name: Tandoor
     url: https://tandoor.underthere.xyz
+    maxResponseTime: 5000
   - name: Vaultwarden
     url: https://vaultwarden.underthere.xyz
+    maxResponseTime: 5000
 
 
 status-website:
