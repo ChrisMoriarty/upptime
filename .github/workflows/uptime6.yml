@@ -16,8 +16,8 @@
 
 name: Uptime CI every 6 minutes
 on:
-  schedule:
-    - cron: "*/6 * * * *"
+  # schedule:
+    # - cron: "*/6 * * * *"
   repository_dispatch:
     types: [uptime]
   workflow_dispatch:
