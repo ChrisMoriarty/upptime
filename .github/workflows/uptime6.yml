@@ -13,17 +13,15 @@
 # * Docs and more: https://upptime.js.org
 # * More by Anand Chowdhary: https://anandchowdhary.com
 
-
-name: Uptime CI every 6 minutes
+name: Uptime CI via cron-job.org
 on:
-  # schedule:
-    # - cron: "*/6 * * * *"
+  # This is being triggered by cron-job.org every minute.
   repository_dispatch:
     types: [uptime]
   workflow_dispatch:
 
 concurrency:
-      group: uptime
+  group: uptime
 
 jobs:
   release:
