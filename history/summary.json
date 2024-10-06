@@ -26,8 +26,8 @@
     "slug": "jellyseerr",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 976,
@@ -36,7 +36,6 @@
     "timeMonth": 1162,
     "timeYear": 976,
     "dailyMinutesDown": {
-      "2024-10-06": 1,
       "2024-09-03": 32
     }
   },
@@ -124,18 +123,20 @@
     "url": "https://vaultwarden.underthere.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/vaultwarden.underthere.xyz.ico",
     "slug": "vaultwarden",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 170,
-    "timeDay": 378,
-    "timeWeek": 179,
-    "timeMonth": 170,
-    "timeYear": 170,
-    "dailyMinutesDown": {}
+    "time": 1702,
+    "timeDay": 9469,
+    "timeWeek": 2017,
+    "timeMonth": 1702,
+    "timeYear": 1702,
+    "dailyMinutesDown": {
+      "2024-10-06": 0
+    }
   },
   {
     "name": "Paperless",
