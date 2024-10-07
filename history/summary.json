@@ -4,11 +4,11 @@
     "url": "https://jellyfin.underthere.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.underthere.xyz.ico",
     "slug": "jellyfin",
-    "status": "degraded",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.96%",
     "time": 2324,
     "timeDay": 8370,
@@ -16,7 +16,7 @@
     "timeMonth": 2928,
     "timeYear": 2324,
     "dailyMinutesDown": {
-      "2024-10-07": 2,
+      "2024-10-07": 5,
       "2024-09-03": 17
     }
   },
