@@ -6,13 +6,13 @@
     "slug": "jellyfin",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "96.84%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.55%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.88%",
     "time": 2217,
-    "timeDay": 7470,
-    "timeWeek": 5068,
+    "timeDay": 125,
+    "timeWeek": 5459,
     "timeMonth": 2792,
     "timeYear": 2217,
     "dailyMinutesDown": {
@@ -25,10 +25,10 @@
     "url": "https://jellyseerr.underthere.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/jellyseerr.underthere.xyz.ico",
     "slug": "jellyseerr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 947,
@@ -37,6 +37,7 @@
     "timeMonth": 1139,
     "timeYear": 947,
     "dailyMinutesDown": {
+      "2024-10-08": 1,
       "2024-09-03": 32
     }
   },
@@ -45,9 +46,9 @@
     "url": "https://bitwarden.underthere.xyz",
     "icon": "https://bitwarden.underthere.xyz/favicon.ico",
     "slug": "bitwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.79%",
@@ -57,6 +58,7 @@
     "timeMonth": 1512,
     "timeYear": 1168,
     "dailyMinutesDown": {
+      "2024-10-08": 0,
       "2024-09-28": 18,
       "2024-09-03": 86
     }
