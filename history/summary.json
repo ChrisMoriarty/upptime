@@ -10,11 +10,11 @@
     "uptimeWeek": "99.55%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.89%",
-    "time": 2126,
-    "timeDay": 208,
-    "timeWeek": 5281,
+    "time": 2102,
+    "timeDay": 158,
+    "timeWeek": 5273,
     "timeMonth": 2754,
-    "timeYear": 2126,
+    "timeYear": 2102,
     "dailyMinutesDown": {
       "2024-10-07": 46,
       "2024-09-03": 17
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 897,
-    "timeDay": 303,
-    "timeWeek": 1972,
-    "timeMonth": 1079,
-    "timeYear": 897,
+    "time": 888,
+    "timeDay": 358,
+    "timeWeek": 1940,
+    "timeMonth": 1078,
+    "timeYear": 888,
     "dailyMinutesDown": {
       "2024-09-03": 32
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.81%",
-    "time": 1089,
-    "timeDay": 94,
-    "timeWeek": 400,
-    "timeMonth": 1091,
-    "timeYear": 1089,
+    "time": 1074,
+    "timeDay": 122,
+    "timeWeek": 389,
+    "timeMonth": 1090,
+    "timeYear": 1074,
     "dailyMinutesDown": {
       "2024-09-28": 18,
       "2024-09-03": 86
@@ -67,16 +67,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/immich.underthere.xyz.ico",
     "slug": "immich",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.91%",
-    "time": 276,
-    "timeDay": 95,
-    "timeWeek": 609,
+    "uptimeYear": "99.92%",
+    "time": 274,
+    "timeDay": 130,
+    "timeWeek": 600,
     "timeMonth": 319,
-    "timeYear": 276,
+    "timeYear": 274,
     "dailyMinutesDown": {
       "2024-09-03": 47
     }
@@ -92,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
-    "time": 574,
-    "timeDay": 91,
-    "timeWeek": 202,
-    "timeMonth": 669,
-    "timeYear": 574,
+    "time": 566,
+    "timeDay": 128,
+    "timeWeek": 186,
+    "timeMonth": 668,
+    "timeYear": 566,
     "dailyMinutesDown": {
       "2024-09-03": 99
     }
@@ -112,11 +112,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 550,
-    "timeDay": 180,
-    "timeWeek": 789,
-    "timeMonth": 550,
-    "timeYear": 550,
+    "time": 537,
+    "timeDay": 275,
+    "timeWeek": 772,
+    "timeMonth": 537,
+    "timeYear": 537,
     "dailyMinutesDown": {}
   },
   {
@@ -130,11 +130,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1085,
-    "timeDay": 88,
-    "timeWeek": 1862,
-    "timeMonth": 1085,
-    "timeYear": 1085,
+    "time": 1039,
+    "timeDay": 126,
+    "timeWeek": 1849,
+    "timeMonth": 1039,
+    "timeYear": 1039,
     "dailyMinutesDown": {}
   },
   {
@@ -148,11 +148,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 308,
-    "timeDay": 279,
-    "timeWeek": 346,
-    "timeMonth": 308,
-    "timeYear": 308,
+    "time": 302,
+    "timeDay": 212,
+    "timeWeek": 323,
+    "timeMonth": 302,
+    "timeYear": 302,
     "dailyMinutesDown": {}
   }
 ]
