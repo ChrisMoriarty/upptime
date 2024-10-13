@@ -1,7 +1,7 @@
 url: https://bitwarden.underthere.xyz
-status: up
-code: 200
-responseTime: 106
-lastUpdated: 2024-10-13T09:32:12.571Z
+status: degraded
+code: 502
+responseTime: 3245
+lastUpdated: 2024-10-13T09:39:29.200Z
 startTime: 2024-09-03T01:11:27.384Z
 generator: Upptime <https://github.com/upptime/upptime>
