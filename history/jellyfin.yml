@@ -1,7 +1,7 @@
 url: https://jellyfin.underthere.xyz
-status: down
-code: 502
-responseTime: 463
-lastUpdated: 2024-10-16T16:18:19.442Z
+status: up
+code: 200
+responseTime: 284
+lastUpdated: 2024-10-16T16:20:13.366Z
 startTime: 2024-09-03T01:11:26.184Z
 generator: Upptime <https://github.com/upptime/upptime>
