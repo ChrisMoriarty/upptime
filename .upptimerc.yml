@@ -31,6 +31,9 @@ sites:
   - name: Emby
     url: https://emby.underthere.xyz
     maxResponseTime: 3000
+  - name: Audiobookshelf
+    url: https://audiobookshelf.underthere.xyz
+    maxResponseTime: 3000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
