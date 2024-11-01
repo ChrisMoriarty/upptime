@@ -9,10 +9,6 @@ sites:
   - name: Jellyseerr
     url: https://jellyseerr.underthere.xyz
     maxResponseTime: 3000
-  - name: Bitwarden
-    url: https://bitwarden.underthere.xyz
-    icon: https://bitwarden.underthere.xyz/favicon.ico
-    maxResponseTime: 3000
   - name: Immich
     url: https://immich.underthere.xyz
     maxResponseTime: 3000
