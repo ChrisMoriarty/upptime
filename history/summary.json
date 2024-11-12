@@ -28,9 +28,9 @@
     "slug": "jellyseerr",
     "status": "up",
     "uptime": "98.86%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "97.42%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "97.43%",
     "uptimeYear": "98.86%",
     "time": 1845,
     "timeDay": 6965,
@@ -38,7 +38,6 @@
     "timeMonth": 2301,
     "timeYear": 1845,
     "dailyMinutesDown": {
-      "2024-11-12": 1,
       "2024-10-29": 1127,
       "2024-09-03": 32
     }
@@ -154,18 +153,20 @@
     "url": "https://emby.underthere.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/emby.underthere.xyz.ico",
     "slug": "emby",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 284,
-    "timeDay": 344,
-    "timeWeek": 389,
-    "timeMonth": 284,
-    "timeYear": 284,
-    "dailyMinutesDown": {}
+    "time": 278,
+    "timeDay": 246,
+    "timeWeek": 362,
+    "timeMonth": 278,
+    "timeYear": 278,
+    "dailyMinutesDown": {
+      "2024-11-12": 0
+    }
   },
   {
     "name": "Audiobookshelf",
