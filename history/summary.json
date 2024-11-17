@@ -135,18 +135,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/paperless.underthere.xyz.ico",
     "slug": "paperless",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 295,
     "timeDay": 533,
     "timeWeek": 413,
     "timeMonth": 308,
     "timeYear": 295,
     "dailyMinutesDown": {
-      "2024-11-17": 15,
       "2024-10-20": 1,
       "2024-10-13": 1
     }
@@ -174,19 +173,19 @@
     "url": "https://audiobookshelf.underthere.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/audiobookshelf.underthere.xyz.ico",
     "slug": "audiobookshelf",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
-    "time": 201,
-    "timeDay": 269,
-    "timeWeek": 251,
-    "timeMonth": 201,
-    "timeYear": 201,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 208,
+    "timeDay": 333,
+    "timeWeek": 269,
+    "timeMonth": 208,
+    "timeYear": 208,
     "dailyMinutesDown": {
-      "2024-11-17": 14
+      "2024-11-17": 20
     }
   }
 ]
