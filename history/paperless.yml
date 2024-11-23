@@ -1,7 +1,7 @@
 url: https://paperless.underthere.xyz
-status: up
-code: 200
-responseTime: 216
-lastUpdated: 2024-11-22T23:15:01.964Z
+status: degraded
+code: 502
+responseTime: 18673
+lastUpdated: 2024-11-23T00:30:42.392Z
 startTime: 2024-09-29T18:20:03.776Z
 generator: Upptime <https://github.com/upptime/upptime>
