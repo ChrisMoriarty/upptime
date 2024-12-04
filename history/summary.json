@@ -176,19 +176,19 @@
     "url": "https://emby.underthere.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/emby.underthere.xyz.ico",
     "slug": "emby",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 298,
-    "timeDay": 264,
-    "timeWeek": 287,
-    "timeMonth": 318,
-    "timeYear": 298,
+    "time": 303,
+    "timeDay": 366,
+    "timeWeek": 310,
+    "timeMonth": 324,
+    "timeYear": 303,
     "dailyMinutesDown": {
-      "2024-12-04": 0
+      "2024-12-04": 1
     }
   },
   {
