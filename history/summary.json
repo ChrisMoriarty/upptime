@@ -4,19 +4,19 @@
     "url": "https://jellyfin.underthere.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.underthere.xyz.ico",
     "slug": "jellyfin",
-    "status": "down",
+    "status": "degraded",
     "uptime": "92.29%",
-    "uptimeDay": "59.04%",
-    "uptimeWeek": "94.15%",
+    "uptimeDay": "58.96%",
+    "uptimeWeek": "94.14%",
     "uptimeMonth": "75.66%",
     "uptimeYear": "92.29%",
-    "time": 1744,
-    "timeDay": 5416,
-    "timeWeek": 3840,
-    "timeMonth": 1974,
-    "timeYear": 1744,
+    "time": 1828,
+    "timeDay": 6160,
+    "timeWeek": 4416,
+    "timeMonth": 2291,
+    "timeYear": 1828,
     "dailyMinutesDown": {
-      "2024-12-08": 590,
+      "2024-12-08": 591,
       "2024-11-24": 636,
       "2024-11-23": 1440,
       "2024-11-22": 1440,
@@ -179,8 +179,8 @@
     "slug": "emby",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 469,
@@ -189,7 +189,7 @@
     "timeMonth": 533,
     "timeYear": 469,
     "dailyMinutesDown": {
-      "2024-12-08": 5
+      "2024-12-08": 6
     }
   },
   {
