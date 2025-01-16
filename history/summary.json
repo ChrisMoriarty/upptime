@@ -194,8 +194,8 @@
     "slug": "emby",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.92%",
     "time": 624,
@@ -204,7 +204,6 @@
     "timeMonth": 429,
     "timeYear": 624,
     "dailyMinutesDown": {
-      "2025-01-16": 1,
       "2025-01-07": 16,
       "2024-12-10": 16,
       "2024-12-09": 25,
