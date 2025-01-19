@@ -1,7 +1,7 @@
 url: https://immich.underthere.xyz
-status: down
+status: degraded
 code: 502
-responseTime: 168
-lastUpdated: 2025-01-19T09:30:13.734Z
+responseTime: 3222
+lastUpdated: 2025-01-19T09:31:21.600Z
 startTime: 2024-09-03T01:11:27.814Z
 generator: Upptime <https://github.com/upptime/upptime>
