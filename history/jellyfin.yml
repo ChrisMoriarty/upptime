@@ -1,7 +1,7 @@
 url: https://jellyfin.underthere.xyz
-status: degraded
+status: down
 code: 502
-responseTime: 18541
-lastUpdated: 2025-01-24T20:51:35.378Z
+responseTime: 84
+lastUpdated: 2025-01-24T20:56:11.370Z
 startTime: 2024-09-03T01:11:26.184Z
 generator: Upptime <https://github.com/upptime/upptime>
