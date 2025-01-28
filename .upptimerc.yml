@@ -30,6 +30,9 @@ sites:
   - name: Audiobookshelf
     url: https://audiobookshelf.underthere.xyz
     maxResponseTime: 3000
+  - name: Peertube
+    url: https://peertube.underthere.xyz
+    maxResponseTime: 3000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -40,7 +43,7 @@ status-website:
   - ChrisMoriarty
   # baseUrl: /your-repo-name
   logoUrl: https://art.pixilart.com/d4da25035ed0d2b.png
-  name: Upptime
+  name: Underthere Upptime
   introTitle: "Hi."
   introMessage: "Realtime status monitoring for services underthere ;)"
   navbar:
