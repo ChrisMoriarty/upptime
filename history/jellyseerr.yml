@@ -1,7 +1,7 @@
 url: https://jellyseerr.underthere.xyz
-status: up
-code: 200
-responseTime: 752
-lastUpdated: 2025-03-01T23:14:09.950Z
+status: degraded
+code: 502
+responseTime: 18730
+lastUpdated: 2025-03-02T10:29:37.298Z
 startTime: 2024-09-03T01:11:26.665Z
 generator: Upptime <https://github.com/upptime/upptime>
