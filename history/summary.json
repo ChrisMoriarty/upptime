@@ -42,9 +42,9 @@
     "slug": "jellyseerr",
     "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.49%",
     "time": 1801,
     "timeDay": 1083,
@@ -52,7 +52,6 @@
     "timeMonth": 2059,
     "timeYear": 1801,
     "dailyMinutesDown": {
-      "2025-03-09": 4,
       "2024-12-15": 173,
       "2024-12-10": 19,
       "2024-11-17": 19,
@@ -151,9 +150,9 @@
     "url": "https://vaultwarden.underthere.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/vaultwarden.underthere.xyz.ico",
     "slug": "vaultwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -163,6 +162,7 @@
     "timeMonth": 1092,
     "timeYear": 1454,
     "dailyMinutesDown": {
+      "2025-03-09": 0,
       "2024-10-20": 1,
       "2024-10-13": 1
     }
