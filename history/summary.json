@@ -241,19 +241,19 @@
     "url": "https://peertube.underthere.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/peertube.underthere.xyz.ico",
     "slug": "peertube",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 209,
-    "timeDay": 336,
-    "timeWeek": 232,
-    "timeMonth": 209,
-    "timeYear": 209,
+    "time": 214,
+    "timeDay": 411,
+    "timeWeek": 265,
+    "timeMonth": 219,
+    "timeYear": 214,
     "dailyMinutesDown": {
-      "2025-03-21": 0
+      "2025-03-21": 2
     }
   }
 ]
