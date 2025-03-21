@@ -1,7 +1,7 @@
 url: https://peertube.underthere.xyz
-status: up
-code: 200
-responseTime: 108
-lastUpdated: 2025-03-20T23:13:36.334Z
+status: down
+code: 502
+responseTime: 563
+lastUpdated: 2025-03-21T17:14:20.355Z
 startTime: 2025-01-28T23:53:49.762Z
 generator: Upptime <https://github.com/upptime/upptime>
