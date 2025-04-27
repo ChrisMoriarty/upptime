@@ -1,7 +1,7 @@
 url: https://vaultwarden.underthere.xyz
-status: degraded
-code: 502
-responseTime: 18534
-lastUpdated: 2025-04-27T09:56:41.145Z
+status: up
+code: 200
+responseTime: 305
+lastUpdated: 2025-04-27T09:57:16.618Z
 startTime: 2024-09-28T23:13:38.698Z
 generator: Upptime <https://github.com/upptime/upptime>
