@@ -33,6 +33,9 @@ sites:
   - name: Peertube
     url: https://peertube.underthere.xyz
     maxResponseTime: 3000
+  - name: Forgejo
+    url: https://forgejo.underthere.xyz
+    maxResponseTime: 3000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
