@@ -294,17 +294,19 @@
     "url": "https://forgejo.underthere.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/forgejo.underthere.xyz.ico",
     "slug": "forgejo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 202,
-    "timeDay": 306,
-    "timeWeek": 225,
-    "timeMonth": 202,
-    "timeYear": 202,
-    "dailyMinutesDown": {}
+    "time": 198,
+    "timeDay": 236,
+    "timeWeek": 210,
+    "timeMonth": 198,
+    "timeYear": 198,
+    "dailyMinutesDown": {
+      "2025-06-01": 0
+    }
   }
 ]
