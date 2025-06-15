@@ -1,7 +1,7 @@
 url: https://forgejo.underthere.xyz
-status: degraded
+status: down
 code: 502
-responseTime: 18872
-lastUpdated: 2025-06-15T09:33:36.037Z
+responseTime: 276
+lastUpdated: 2025-06-15T09:34:17.985Z
 startTime: 2025-05-13T17:50:14.130Z
 generator: Upptime <https://github.com/upptime/upptime>
