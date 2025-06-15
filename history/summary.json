@@ -299,19 +299,19 @@
     "url": "https://forgejo.underthere.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/forgejo.underthere.xyz.ico",
     "slug": "forgejo",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 816,
-    "timeDay": 6505,
-    "timeWeek": 1574,
-    "timeMonth": 862,
-    "timeYear": 816,
+    "time": 803,
+    "timeDay": 4927,
+    "timeWeek": 1482,
+    "timeMonth": 848,
+    "timeYear": 803,
     "dailyMinutesDown": {
-      "2025-06-15": 1
+      "2025-06-15": 2
     }
   },
   {
@@ -319,17 +319,19 @@
     "url": "https://romm.underthere.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/romm.underthere.xyz.ico",
     "slug": "rom-m",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 179,
-    "timeDay": 303,
-    "timeWeek": 179,
-    "timeMonth": 179,
-    "timeYear": 179,
-    "dailyMinutesDown": {}
+    "time": 1618,
+    "timeDay": 9591,
+    "timeWeek": 1618,
+    "timeMonth": 1618,
+    "timeYear": 1618,
+    "dailyMinutesDown": {
+      "2025-06-15": 0
+    }
   }
 ]
