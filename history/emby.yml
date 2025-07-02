@@ -1,7 +1,7 @@
 url: https://emby.underthere.xyz
-status: up
-code: 200
-responseTime: 457
-lastUpdated: 2025-07-01T23:15:05.595Z
+status: down
+code: 502
+responseTime: 97
+lastUpdated: 2025-07-02T17:47:13.078Z
 startTime: 2024-10-30T16:25:54.481Z
 generator: Upptime <https://github.com/upptime/upptime>
