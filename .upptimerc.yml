@@ -2,43 +2,43 @@
 owner: ChrisMoriarty # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
-sites:
-  - name: Jellyfin
-    url: https://jellyfin.underthere.xyz
-    maxResponseTime: 3000
-  - name: Jellyseerr
-    url: https://jellyseerr.underthere.xyz
-    maxResponseTime: 3000
-  - name: Immich
-    url: https://immich.underthere.xyz
-    maxResponseTime: 3000
-  - name: Mealie
-    url: https://mealie.underthere.xyz
-    maxResponseTime: 3000
-  - name: Tandoor
-    url: https://tandoor.underthere.xyz
-    maxResponseTime: 3000
-  - name: Vaultwarden
-    url: https://vaultwarden.underthere.xyz
-    maxResponseTime: 3000
-  - name: Paperless
-    url: https://paperless.underthere.xyz
-    maxResponseTime: 3000
-  - name: Emby
-    url: https://emby.underthere.xyz
-    maxResponseTime: 3000
-  - name: Audiobookshelf
-    url: https://audiobookshelf.underthere.xyz
-    maxResponseTime: 3000
-  - name: Peertube
-    url: https://peertube.underthere.xyz
-    maxResponseTime: 3000
-  - name: Forgejo
-    url: https://forgejo.underthere.xyz
-    maxResponseTime: 3000
-  - name: RomM
-    url: https://romm.underthere.xyz
-    maxResponseTime: 3000
+# sites:
+#   - name: Jellyfin
+#     url: https://jellyfin.underthere.xyz
+#     maxResponseTime: 3000
+#   - name: Jellyseerr
+#     url: https://jellyseerr.underthere.xyz
+#     maxResponseTime: 3000
+#   - name: Immich
+#     url: https://immich.underthere.xyz
+#     maxResponseTime: 3000
+#   - name: Mealie
+#     url: https://mealie.underthere.xyz
+#     maxResponseTime: 3000
+#   - name: Tandoor
+#     url: https://tandoor.underthere.xyz
+#     maxResponseTime: 3000
+#   - name: Vaultwarden
+#     url: https://vaultwarden.underthere.xyz
+#     maxResponseTime: 3000
+#   - name: Paperless
+#     url: https://paperless.underthere.xyz
+#     maxResponseTime: 3000
+#   - name: Emby
+#     url: https://emby.underthere.xyz
+#     maxResponseTime: 3000
+#   - name: Audiobookshelf
+#     url: https://audiobookshelf.underthere.xyz
+#     maxResponseTime: 3000
+#   - name: Peertube
+#     url: https://peertube.underthere.xyz
+#     maxResponseTime: 3000
+#   - name: Forgejo
+#     url: https://forgejo.underthere.xyz
+#     maxResponseTime: 3000
+#   - name: RomM
+#     url: https://romm.underthere.xyz
+#     maxResponseTime: 3000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
